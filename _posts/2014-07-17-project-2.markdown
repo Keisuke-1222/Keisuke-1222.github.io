@@ -4,9 +4,18 @@ modal-id: 2
 date: 2014-07-17
 img: ensns.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Sep 2018
+site: EnSnS
+site-url: https://ensns.herokuapp.com/
+source: https://github.com/Keisuke-1222/ensns_app
+host: github
+description: <p>
+ エンジニア用のSNSサイトです。以下の機能を実装済みです。<br>
+ ・Twitter連携機能<br>
+ ・タグやお気に入りによる掲示板の絞り込み機能<br>
+ ・ユーザーフォロー、コメントへのいいね機能<br>
+ ・deviseによるユーザー認証機能<br>
+ ・bootstrapによるレスポンシブデザイン<br>
+ </p>
 
 ---
