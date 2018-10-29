@@ -8,7 +8,7 @@ skills: "Web Engineer"
 meta_author: Keisuke Suzuki
 
 # Google webmaster tools
-google_verify:
+google_verify: UA-128280347-1
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
