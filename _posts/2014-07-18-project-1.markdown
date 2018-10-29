@@ -4,8 +4,14 @@ modal-id: 1
 img: bigbag.png
 alt: image-alt
 project-date: Sep 2018
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+source: https://bitbucket.org/keisuke-1222/potepanec/src/master/
+host: Bitbucket
+description:
+ <p>プログラミングスクールの課題として、solidusを用いた架空のECサイト改修に取り組みました。</p>
+ <ul>
+  <li>RSpecによる単体テスト、統合テストを導入しました。</li>
+  <li>Linter（rubocop）の導入する事で、規約に沿った可読性の高いコードを意識しました。</li>
+  <li>現役エンジニアの講師陣によるコードレビューにはPull Requestを用い、複数人からのクロスチェックを受ける事で保守性や拡張性の高いコードに仕上げました。</li>
+ </ul>
 
 ---

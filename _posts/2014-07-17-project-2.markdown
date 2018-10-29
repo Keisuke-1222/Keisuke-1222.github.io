@@ -9,13 +9,13 @@ site: EnSnS
 site-url: https://ensns.herokuapp.com/
 source: https://github.com/Keisuke-1222/ensns_app
 host: github
-description: <p>
- エンジニア用のSNSサイトです。以下の機能を実装済みです。<br>
- ・Twitter連携機能<br>
- ・タグやお気に入りによる掲示板の絞り込み機能<br>
- ・ユーザーフォロー、コメントへのいいね機能<br>
- ・deviseによるユーザー認証機能<br>
- ・bootstrapによるレスポンシブデザイン<br>
- </p>
+description: <p>エンジニア用のSNSサイトです。以下の機能を実装しました。</p>
+ <ul>
+  <li>OmniAuthによるTwitterログイン</li>
+  <li>タグやお気に入りによる掲示板の絞り込み</li>
+  <li>ユーザーフォロー、コメントへのいいね</li>
+  <li>deviseによるユーザー認証</li>
+  <li>bootstrapによるレスポンシブデザインの導入</li>
+ </ul>
 
 ---
